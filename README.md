@@ -1,0 +1,1 @@
+The Pizza Sales Analysis project is designed to provide comprehensive insights into the performance of a pizza business. This analysis focuses on sales trends, customer preferences, and revenue contributions across various pizza categories, helping the business make data-driven decisions to optimize operations and boost profitability.
